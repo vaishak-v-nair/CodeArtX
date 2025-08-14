@@ -1,4 +1,4 @@
-#🎨 CodeArtX – AI Art Startup Website  
+🎨 CodeArtX – AI Art Startup Website  
 
 A responsive, brand-focused website built for **CodeArtX**, an AI-driven art startup.  
 Delivered as a **client commission**, created entirely in **Framer** with a customized template to match their brand vision and user experience goals.
